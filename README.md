@@ -47,6 +47,6 @@ $ npm start
 
 ## Application End Point
 ```
-	-/metar/ping
-    -/metar/info?scode=XXXX&nocache=1
+-/metar/ping
+-/metar/info?scode=XXXX&nocache=1
 ```
